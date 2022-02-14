@@ -1,0 +1,690 @@
+{
+  "meta": {
+    "title": "Top Golf Professionals Using Ping PLD Putters | Ping PLD",
+    "description": "Top golf professionals use Ping PLD putters. Stay on top of your game with Ping PLD."
+  },
+  "pageBanner": {
+    "label": "Pros",
+    "title": "Played by the best",
+    "backgroundImage": {
+      "src": "https://plchldr.co/i/2400x1600?bg=CC3300&fc=FFFFFF",
+      "alt": "promotion banner",
+      "enabled": true
+    },
+    "scrollButtonAria": "Scrolls down to next section",
+    "enabled": true
+  },
+  "playerCards": {
+    "title": "Lorem ipsum dolar sit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "showMoreButton": {
+      "href": "",
+      "text": "Show more"
+    },
+    "flipToFrontSideButton": {
+      "href": "",
+      "text": "Hide specs"
+    },
+    "cards": [
+      {
+        "index": 1,
+        "playerName": "Cameron Champ",
+        "putterName": "Anser 4",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_1.png",
+          "alt": "Pros Player 1 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_1.png",
+          "alt": "Pros Player 1 back"
+        },
+        "enabled": true
+      },
+      {
+        "index": 2,
+        "playerName": "Tony Finau",
+        "putterName": "Anser 2 D",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_2.png",
+          "alt": "Pros Player 2 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_home.png",
+          "alt": "Pros Player 2 back"
+        },
+        "enabled": true
+      },
+      {
+        "index": 3,
+        "playerName": "Lee Westwood",
+        "putterName": "Sigma 2",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_3.png",
+          "alt": "Pros Player 3 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_2.png",
+          "alt": "Pros Player 3 back"
+        },
+        "enabled": true
+      },
+      {
+        "index": 4,
+        "playerName": "Bubba Watson",
+        "putterName": "Anser D",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_4.png",
+          "alt": "Pros Player 4 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_3.png",
+          "alt": "Pros Player 4 back"
+        },
+        "enabled": true
+      },
+      {
+        "index": 5,
+        "playerName": "Cameron Champ",
+        "putterName": "Anser 4",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_1.png",
+          "alt": "Pros Player 5 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_1.png",
+          "alt": "Pros Player 5 back"
+        },
+        "enabled": true
+      },
+      {
+        "index": 6,
+        "playerName": "Tony Finau",
+        "putterName": "Anser 2 D",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_2.png",
+          "alt": "Pros Player 6 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_home.png",
+          "alt": "Pros Player 6 back"
+        },
+        "enabled": true
+      },
+      {
+        "index": 7,
+        "playerName": "Lee Westwood",
+        "putterName": "Sigma 2",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_3.png",
+          "alt": "Pros Player 7 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_2.png",
+          "alt": "Pros Player 7 back"
+        },
+        "enabled": true
+      },
+      {
+        "index": 8,
+        "playerName": "Bubba Watson",
+        "putterName": "Anser D",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_4.png",
+          "alt": "Pros Player 8 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_3.png",
+          "alt": "Pros Player 8 back"
+        },
+        "enabled": true
+      },
+      {
+        "index": 9,
+        "playerName": "Cameron Champ",
+        "putterName": "Anser 4",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_1.png",
+          "alt": "Pros Player 9 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_1.png",
+          "alt": "Pros Player 9 back"
+        },
+        "enabled": true
+      },
+      {
+        "index": 10,
+        "playerName": "Tony Finau",
+        "putterName": "Anser 2 D",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_2.png",
+          "alt": "Pros Player 10 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_home.png",
+          "alt": "Pros Player 10 back"
+        },
+        "enabled": true
+      },
+      {
+        "index": 11,
+        "playerName": "Lee Westwood",
+        "putterName": "Sigma 2",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_3.png",
+          "alt": "Pros Player 11 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_2.png",
+          "alt": "Pros Player 11 back"
+        },
+        "enabled": true
+      },
+      {
+        "index": 12,
+        "playerName": "Bubba Watson",
+        "putterName": "Anser D",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_4.png",
+          "alt": "Pros Player 12 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_3.png",
+          "alt": "Pros Player 12 back"
+        },
+        "enabled": true
+      },
+      {
+        "index": 13,
+        "playerName": "Cameron Champ",
+        "putterName": "Anser 4",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_1.png",
+          "alt": "Pros Player 13 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_1.png",
+          "alt": "Pros Player 13 back"
+        },
+        "enabled": true
+      },
+      {
+        "index": 14,
+        "playerName": "Tony Finau",
+        "putterName": "Anser 2 D",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_2.png",
+          "alt": "Pros Player 14 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_home.png",
+          "alt": "Pros Player 14 back"
+        },
+        "enabled": true
+      },
+      {
+        "index": 15,
+        "playerName": "Lee Westwood",
+        "putterName": "Sigma 2",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_3.png",
+          "alt": "Pros Player 15 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_2.png",
+          "alt": "Pros Player 15 back"
+        },
+        "enabled": true
+      },
+      {
+        "index": 16,
+        "playerName": "Bubba Watson",
+        "putterName": "Anser D",
+        "characteristics": [
+          {
+            "charName": "Material",
+            "charValue": "Carbon"
+          },
+          {
+            "charName": "Finish",
+            "charValue": "Patina"
+          },
+          {
+            "charName": "Length",
+            "charValue": "35\""
+          },
+          {
+            "charName": "Lie",
+            "charValue": "20 +-4"
+          },
+          {
+            "charName": "Loft",
+            "charValue": "3 +3/-2"
+          },
+          {
+            "charName": "Grip",
+            "charValue": "15\"Winn"
+          }
+        ],
+        "imageFront": {
+          "src": "/images/pros_item_4.png",
+          "alt": "Pros Player 16 front"
+        },
+        "imageBack": {
+          "src": "/images/putter_item_3.png",
+          "alt": "Pros Player 16 back"
+        },
+        "enabled": true
+      }
+    ],
+    "enabled": true
+  },
+  "scheduleSection": {
+    "title": "Get custom fit today.",
+    "description": "Get started by scheduling a virtual or on-site fitting",
+    "CTA": {
+      "text": "What's the difference?",
+      "href": "/help",
+      "specialPurpose": "difference"
+    },
+    "calendlyLink": {
+      "text": "Get Custom Fit",
+      "href": "https://calendly.com/pldfitting"
+    },
+    "backgroundImage": {
+      "src": "https://plchldr.co/i/2400x1600?bg=CC3300&fc=FFFFFF",
+      "alt": "engineering putters"
+    },
+    "enabled": true
+  }
+}

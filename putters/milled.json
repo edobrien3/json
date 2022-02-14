@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "title": "Premium Precision Milled Golf Putters | Ping PLD",
+    "description": "Ping PLD milled putters are crafted from stainless steel and precisely designed to ensure your best performance. "
+  },
+  "pageBanner": {
+    "pageName": "Milled",
+    "breadcrumbs": {
+      "parentLevel": {
+        "text": "Putters",
+        "href": "/putters"
+      },
+      "currentLevel": "Milled"
+    },
+    "label": "PLD Milled",
+    "title": "Premium, Precision-Milled Putters",
+    "backgroundImage": {
+      "src": "/images/putters_overview_image_ and _news_item_5_and_pld_limited.jpeg",
+      "alt": "PLD Milled Banner"
+    },
+    "scrollButtonAria": "Scroll down to the next section",
+    "enabled": true
+  },
+  "featuredSection": {
+    "title": "Mediculously Milled",
+    "description": "Clean, sharp lines with gracefully sloping contours. A premium level of precision and detail. These are the qualities that distinguish a PLD Milled design, carefully crafted from 303 stainless steel to ensure quality and performance.",
+    "blocks": [
+      {
+        "image": {
+          "src": "/images/putter_item_1.png",
+          "alt": "anser one"
+        },
+        "model": "anser",
+        "subtitle": "Anser",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+      },
+      {
+        "image": {
+          "src": "/images/putter_item_home.png",
+          "alt": "anser two"
+        },
+        "model": "anser-2",
+        "subtitle": "Anser 2",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+      },
+      {
+        "image": {
+          "src": "/images/putter_item_3.png",
+          "alt": "prime tyne four"
+        },
+        "model": "prime-tyne4",
+        "subtitle": "PrimeTyne 4",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+      },
+      {
+        "image": {
+          "src": "/images/putter_item_2.png",
+          "alt": "DS 72"
+        },
+        "model": "ds72",
+        "subtitle": "DS72",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+      },
+      {
+        "image": {
+          "src": "/images/putter_item_3.png",
+          "alt": "model name"
+        },
+        "model": "model-name",
+        "subtitle": "Model name",
+        "notice": "Coming Soon",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+      }
+    ],
+    "enabled": true
+  },
+  "findAFitterSection": {
+    "title": "Get a PLD milled today.",
+    "description": "Offered exclusively in golf shops that have expertise in the art and science of putter fitting.",
+    "CTA": {
+      "href": "https://ping.com/en-us/find-retailers",
+      "text": "Find a fitter"
+    },
+    "backgroundImage": {
+      "src": "/images/engineering_landing.jpeg",
+      "alt": "engineering putters"
+    },
+    "enabled": true
+  }
+}

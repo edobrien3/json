@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "Golf Gear | Accessories, Headcovers, Headwear, Bags | Ping PLD",
+    "description": "Visit our Ping PLD shop and choose from the high-quality line of golf gear - including headwear, bags and accessories."
+  },
+  "pageBanner": {
+    "pageName": "Gear",
+    "label": "PLD Gear",
+    "title": "Our lineup.",
+    "pldShopLink": {
+      "href": "https://test.ping.com/en-us/pld/shop?category=allpld",
+      "text": "Visit PLD shop"
+    },
+    "backgroundImage": {
+      "alt": "gear landing",
+      "src": "/images/played_by_the_best_home.jpeg"
+    },
+    "enabled": true
+  },
+  "gearSection": {
+    "CTA": {
+      "href": "https://test.ping.com/en-us/pld/shop?category=allpld",
+      "text": "Visit PLD Shop"
+    },
+    "items": [
+      {
+        "name": "Accessories",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore.",
+        "image": {
+          "alt": "Accessories picture",
+          "src": "/images/gear_item_accessories.png"
+        }
+      },
+      {
+        "name": "Headcovers",
+        "description": "Description lorem ipsum dolar sit amet consectetur adipiscing elit, sed do eiusmod",
+        "image": {
+          "alt": "Headcovers picture",
+          "src": "/images/gear_item_headcovers.png"
+        }
+      },
+      {
+        "name": "Headware",
+        "description": "Description lorem ipsum dolar sit amet consectetur adipiscing elit, sed do eiusmod",
+        "image": {
+          "alt": "Hardware picture",
+          "src": "/images/gear_item_headwear.png"
+        }
+      },
+      {
+        "name": "Bags",
+        "description": "Description lorem ipsum dolar sit amet consectetur adipiscing elit, sed do eiusmod",
+        "image": {
+          "alt": "Bags picture",
+          "src": "/images/gear_item_bags.png"
+        }
+      }
+    ],
+    "enabled": true
+  },
+  "scheduleSection": {
+    "title": "Get custom fit today.",
+    "description": "Get started by scheduling a virtual or on-site fitting",
+    "CTA": {
+      "text": "What's the difference?",
+      "href": "/help",
+      "specialPurpose": "difference"
+    },
+    "calendlyLink": {
+      "text": "Get Custom Fit",
+      "href": "https://calendly.com/pldfitting"
+    },
+    "backgroundImage": {
+      "src": "/images/engineering_landing.jpeg",
+      "alt": "engineering putters"
+    },
+    "enabled": true
+  }
+}

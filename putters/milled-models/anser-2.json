@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "title": "Anser 2 Putters | Buy Milled Putters Online | Ping PLD",
+    "description": "PLD Anser 2 putter is a premium milled putter which is designed to provide a stable and accurate game. Get fitted for yours now."
+  },
+  "pageBanner": {
+    "imgSrc": "/images/putter_item_home.png",
+    "alt": "anser two",
+    "title": "Anser 2",
+    "model": "anser-2",
+    "breadcrumbs": {
+      "grandParentLevel": {
+        "text": "Putters",
+        "href": "/putters"
+      },
+      "parentLevel": {
+        "text": "Milled",
+        "href": "/putters/milled"
+      },
+      "currentLevel": "Anser 2"
+    },
+    "productReview": {
+      "enabled": false
+    },
+    "description": "Differs from the others with a slightly longer and narrower profile, and sharper corners, but shares its clean geometries and center alignment line to making aiming easy. Heel-toe tungsten weighting provides stability, forgiveness and accuracy.",
+    "characteristics": [
+      {
+        "label": "Putter Type",
+        "value": "Blade"
+      },
+      {
+        "label": "Standard Length",
+        "value": "35\""
+      },
+      {
+        "label": "Head Weight",
+        "value": "350g"
+      },
+      {
+        "label": "Stroke Type",
+        "value": "Slight Arc"
+      },
+      {
+        "label": "Lie Angle",
+        "value": "20° ±4°"
+      },
+      {
+        "label": "Loft",
+        "value": "3° +3°/-2°"
+      }
+    ],
+    "CTA": {
+      "href": "https://ping.com/en-us/find-retailers",
+      "text": "Find a fitter"
+    },
+    "enabled": true
+  },
+  "expertReviewSection": {
+    "title": "Expert review.",
+    "description": "Learn what Viktor Hovland has to say about the Anser 2.",
+    "media": {
+      "src": "https://www.youtube.com/embed/aJX7IXLFiLU",
+      "alt": "expert"
+    },
+    "enabled": true
+  },
+  "technologyTab": {
+    "tabName": "Technology",
+    "title": "Technology",
+    "subTitle": "Lorem ipsum dolar sit amet...",
+    "sections": [
+      {
+        "title": "Heel-toe weighting",
+        "description": "Perimeter weighting stabilizes the head to prevent twisting, which elevates MOI to improve forgiveness and accuracy.",
+        "image": {
+          "src": "/images/engineering_5_and_pld_custom_item.jpeg",
+          "alt": "technology section Heel-toe weighting"
+        },
+        "icon": {
+          "src": "/icons/tungsten-weighting.svg",
+          "alt": "icon1"
+        },
+        "enabled": true
+      },
+      {
+        "title": "Flow-neck hosel",
+        "description": "Entering heel side, the “flow-neck” hosel is positioned in a way that promotes a strong-arc stroke rotation.",
+        "image": {
+          "src": "/images/engineering_2_and_pld_cistom_item.jpeg",
+          "alt": "technology section flow-heck hosel"
+        },
+        "icon": {
+          "src": "/icons/flow-neck-hosel.svg",
+          "alt": "icon2"
+        },
+        "enabled": true
+      },
+      {
+        "title": "Ball-width alignment",
+        "description": "The single alignment line paired with the ball-width cavity geometry guide the eye to help make aiming easy.",
+        "image": {
+          "src": "/images/engineeering_4_and_pld_custom_item_and_milled_details.jpeg",
+          "alt": "technology section Ball-width alignment"
+        },
+        "icon": {
+          "src": "/icons/alignment-aids.svg",
+          "alt": "icon3"
+        },
+        "enabled": true
+      }
+    ],
+    "enabled": true
+  },
+  "reviewsTab": {
+    "tabName": "Reviews",
+    "title": "Customer reviews.",
+    "putterId": "G425_DRVR_MAX",
+    "enabled": false
+  },
+  "gripsAndShaftsTab": {
+    "tabName": "Grips & Shafts",
+    "title": "Grips and shafts.",
+    "subTitle": "Lorem ipsum",
+    "grips": [
+      {
+        "title": "PP58 Midsize",
+        "description": "Standard-sized pistol shape is designed to make it easier to square the face at impact.",
+        "captionGrip": "Grip",
+        "captionProfile": "Grip profile",
+        "gripImage": {
+          "src": "/images/grip_1.png",
+          "alt": "grip_1"
+        },
+        "gripProfileImage": {
+          "src": "/images/grip_profile_1.png",
+          "alt": "grip_profile_1"
+        },
+        "enabled": true
+      },
+      {
+        "title": "PP58 S",
+        "description": "Straight-taper, midsized pistol with larger flat surfaces for increased face awareness.",
+        "captionGrip": "Grip",
+        "captionProfile": "Grip profile",
+        "gripImage": {
+          "src": "/images/grip_2.png",
+          "alt": "grip_2"
+        },
+        "gripProfileImage": {
+          "src": "/images/grip_profile_2.png",
+          "alt": "grip_profile_2"
+        },
+        "enabled": true
+      },
+      {
+        "title": "PP60",
+        "description": "Midsize pistol-shaped design with a rubber under-listing has larger flat surfaces for increased face awareness.",
+        "captionGrip": "Grip",
+        "captionProfile": "Grip profile",
+        "gripImage": {
+          "src": "/images/grip_3.png",
+          "alt": "grip_3"
+        },
+        "gripProfileImage": {
+          "src": "/images/grip_profile_3.png",
+          "alt": "grip_profile_3"
+        },
+        "enabled": true
+      },
+      {
+        "title": "Armlock",
+        "description": "This sleek 21\" grip has a longer profile to provide multiple hand-placement options. The comfortable, tacky Excel polymer uses multiple tread patterns for accentuating feel.",
+        "captionGrip": "Grip",
+        "captionProfile": "Grip profile",
+        "gripImage": {
+          "src": "/images/grip_4.png",
+          "alt": "grip_4"
+        },
+        "gripProfileImage": {
+          "src": "/images/grip_profile_4.png",
+          "alt": "grip_profile_4"
+        },
+        "enabled": true
+      }
+    ],
+    "enabled": true
+  }
+}

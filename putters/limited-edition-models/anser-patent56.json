@@ -1,0 +1,53 @@
+{
+    "meta": {
+        "title": "Anser Patent56 Putters - Limited edition putters| Ping PLD",
+        "description": "The Ping PLD Anser Patent56 putter inspired the game of world-famous golfers for 55 years. Own a legacy of of golf history."
+    },
+    "pageBanner": {
+        "notice": "Coming Soon",
+        "image": {
+            "src": "/images/putter_item_1.png",
+            "alt": "putter"
+        },
+        "title": "The Anser Patent56",
+        "model": "anser-patent56",
+        "breadcrumbs": {
+            "grandParentLevel": {
+                "text": "Putters",
+                "href": "/putters"
+            },
+            "parentLevel": {
+                "text": "Limited",
+                "href": "/putters/limited-edition"
+            },
+            "currentLevel": "The Anser Patent56"
+        },
+        "oneOff": false,
+        "description": "All patents expire eventually. Few continue to inspire 55 years later. Consider the Anser putter, patent #207.227, issued on March 21, 1967. Originally sketched by Karsten Solheim on a 78 rpm record sleeve before setting the standard in putter design, some of the first golfers to put it in play described it as a plumber’s nightmare. Until their dreams started coming true. Since then, it’s won more tournaments – including majors – than any other model. It also won the hearts and minds of other putter designers, who celebrated the day the patent expired. Today, we’re celebrating its contribution to making putting easier for everyone for the last 55 years.",
+        "specs": [
+            "100% Milled from Manganese Bronze",
+            "Original Anser Design",
+            "PING PP58 Grip"
+        ],
+        "CTA": {
+            "href": "http://ping.com",
+            "text": "Buy on PING.com"
+        },
+        "enabled": true,
+        "isAvailableForSale": false
+    },
+    "expertReviewSection": {
+        "title": "Expert review.",
+        "description": "Learn what Viktor Hovland has to say about the Anser 2.",
+        "media": {
+            "src": "https://www.youtube.com/embed/aJX7IXLFiLU",
+            "alt": "expert"
+        },
+        "enabled": true
+    },
+    "customerReviewsSection": {
+        "title": "Customer reviews.",
+        "putterId": "G425_DRVR_MAX",
+        "enabled": false
+    }
+}

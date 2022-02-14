@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "title": "Ping PLD - Custom, Limited Edition, and Milled Putters",
+    "description": "Introducing Ping PLD custom, limited edition and milled putters. Take your game to the next level."
+  },
+  "pageBanner": {
+    "heading": "Introducing PLD",
+    "subheading": "A premium line of custom milled putters",
+    "CTA": {
+      "text": "Get a Custom Putter",
+      "href": "/putters/custom"
+    },
+    "backgroundVideo": {
+      "src": "/videos/pld_microsite_animation.mp4",
+      "alt": "homepage banner video",
+      "enabled": true
+    },
+    "backgroundImage": {
+      "src": "/images/PLDput_Anser2_FaceRender_2.png",
+      "alt": "promotion banner 1",
+      "enabled": false
+    },
+    "scrollButtonAria": "Scrolls down to next section",
+    "enabled": false
+  },
+  "promotionNewsBanner": {
+    "label": "News",
+    "title": "Lorem ipsum dolar sit.",
+    "CTA": {
+      "text": "Read article",
+      "href": "/news/[year]/[month]/[day]/[post]",
+      "date": {
+        "year": 2021,
+        "month": 11,
+        "day": 21
+      },
+      "post": "stop-it-like-a-tour-player"
+    },
+    "backgroundImage": {
+      "src": "/images/art_and_science_picture.jpg",
+      "alt": "promotion banner 2",
+      "enabled": true
+    },
+    "enabled": false
+  },
+  "promotionLimitedBanner": {
+    "label": "Starting at $1000",
+    "title": "The Limited Edition Anser 55 Patent",
+    "CTA": {
+      "text": "View details",
+      "model": "/anser-patent55",
+      "href": "/putters/limited-edition"
+    },
+    "backgroundImage": {
+      "src": "/images/PLDput_DS72_AddressRender_2.png",
+      "alt": "promotion banner 3",
+      "enabled": true
+    },
+    "dashedLineImage": {
+      "src": "/images/dashed-line.svg",
+      "alt": "line addon",
+      "enabled": true
+    },
+    "enabled": true
+  },
+  "overview": {
+    "title": "A Premium Line of Milled and Custom Putters",
+    "description": "Milled for precision, built to perfection to fit your game, just like the tour pros. Put more than 60 years of engineering excellence in your hands. You’ll putt better, score lower and smile more.",
+    "video": {
+      "src": "https://www.youtube.com/embed/eH3X_ICdBKo",
+      "alt": "Premium video source"
+    },
+    "CTA1": {
+      "text": "Get PLD Custom",
+      "href": "/putters/custom"
+    },
+    "CTA2": {
+      "text": "View PLD Milled",
+      "href": "/putters/milled"
+    },
+    "enabled": true
+  },
+  "customs": {
+    "title": "A custom experience like no other.",
+    "subtitle": "You design it, we build it.",
+    "description": "Together we craft a one-of-a-kind milled putter custom fit and custom built to your game. There’s no limit to what we’ll create, so think big. You can experience it virtually, or in person. It starts with the most thorough putter fitting in golf and ends with a putter customized only for you. Even our tour players will be envious.",
+    "CTA1": {
+      "text": "Get PLD Custom",
+      "href": "/putters/custom"
+    },
+    "CTA2": {
+      "text": "How it works",
+      "href": "/putters/custom"
+    },
+    "image": {
+      "src": "https://plchldr.co/i/2400x1600?bg=CC3300&fc=FFFFFF",
+      "alt": "A Custom Experience Like No Other",
+      "enabled": true
+    },
+    "enabled": true
+  },
+  "artAndScience": {
+    "subtitle": "Experience the art and science of a custom fitting.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    "CTA1": {
+      "text": "Learn more",
+      "href": "/putters/custom"
+    },
+    "image": {
+      "src": "https://plchldr.co/i/2400x1600?bg=CC3300&fc=FFFFFF",
+      "alt": "Experience the art and science of a custom fitting",
+      "enabled": true
+    },
+    "iconContainerImage": {
+      "src": "/images/data_and_analytics_pld_custom.png",
+      "alt": "icons",
+      "enabled": true
+    },
+    "enabled": true
+  },
+  "playedByTheBest": {
+    "subtitle": "Played by the best. Customized for you.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    "CTA1": {
+      "text": "View all pros",
+      "href": "/pros"
+    },
+    "image": {
+      "src": "https://plchldr.co/i/2400x1600?bg=CC3300&fc=FFFFFF",
+      "alt": "clipped putter",
+      "enabled": true
+    },
+    "enabled": true
+  },
+  "explorePld": {
+    "title": "Explore the PLD lineup.",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+    "enabled": true
+  }
+}

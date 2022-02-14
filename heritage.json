@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "title": "History, Heritage and Legacy | Ping PLD",
+    "description": "Learn how Ping’s legacy of golf club design and engineering led to Ping PLD custom, limited edition and milled putters."
+  },
+  "pageBanner": {
+    "pageName": "Heritage",
+    "label": "Heritage",
+    "title": "An engineering company that started with a putter.",
+    "scrollButtonAria": "Scrolls down",
+    "backgroundImage": {
+      "alt": "heritage banner",
+      "src": "/images/pld_custom_slide_show_5.jpeg"
+    },
+    "enabled": true
+  },
+  "postBannerText": {
+    "text": "From founder Karsten Solheim’s garage to the Hall of Fame.",
+    "enabled": true
+  },
+  "historySection": {
+    "title": "It all started with a putter.",
+    "description": "Karsten Solheim might not have invented the putter, but he did modernize it more than 60 years ago.And his influence can still be seen in just about every putter on the market today. While experimentingin his Redwood City, Calif., garage, his theory ofheel-toe balance revolutionized putter design.",
+    "slideshowArrowsAria": {
+      "left": "Previous slide",
+      "right": "Next slide"
+    },
+    "carousel": [
+      {
+        "year": "1959",
+        "caption": "Karsten and Louise stand outside their Redwood City, California home.",
+        "image": {
+          "src": "/images/heritage_slide_1.png",
+          "alt": "heritage slide 1"
+        }
+      },
+      {
+        "year": "1960",
+        "caption": "A young John Solheim stands next to his father outside their Redwood City, California home.",
+        "image": {
+          "src": "/images/heritage_slide_2.png",
+          "alt": "heritage slide 2"
+        }
+      },
+      {
+        "year": "1959",
+        "caption": "Karsten and Louise stand outside their Redwood City, California home.",
+        "image": {
+          "src": "/images/heritage_slide_1.png",
+          "alt": "heritage slide 3"
+        }
+      },
+      {
+        "year": "1960",
+        "caption": "A young John Solheim stands next to his father outside their Redwood City, California home.",
+        "image": {
+          "src": "/images/heritage_slide_2.png",
+          "alt": "heritage slide 4"
+        }
+      },
+      {
+        "year": "1959",
+        "caption": "Karsten and Louise stand outside their Redwood City, California home.",
+        "image": {
+          "src": "/images/heritage_slide_1.png",
+          "alt": "heritage slide 5"
+        }
+      },
+      {
+        "year": "1960",
+        "caption": "A young John Solheim stands next to his father outside their Redwood City, California home.",
+        "image": {
+          "src": "/images/heritage_slide_2.png",
+          "alt": "heritage slide 6"
+        }
+      }
+    ],
+    "enabled": true
+  },
+  "infoSections": {
+    "section1": {
+      "title": "Engineering-led from the start.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": {
+        "alt": "Image of engineers working",
+        "src": "/images/heritage_1.png"
+      },
+      "scrollButtonAria": "Scrolls to next section",
+      "enabled": true
+    },
+    "section2": {
+      "title": "Accomplishments over the years.",
+      "description": "Karsten Solheim might not have invented the putter, but he did modernize it more than 60 years ago.And his influence can still be seen in just about every putter on the market today. While experimentingin his Redwood City, Calif., garage, his theory ofheel-toe balance revolutionized putter design.",
+      "image": {
+        "alt": "Image of golf putter places",
+        "src": "/images/heritage_2.jpeg"
+      },
+      "scrollButtonAria": "Scrolls to next section",
+      "enabled": true
+    },
+    "section3": {
+      "title": "Setting a new gold standard.",
+      "description": "Karsten Solheim might not have invented the putter, but he did modernize it more than 60 years ago.And his influence can still be seen in just about every putter on the market today. While experimentingin his Redwood City, Calif., garage, his theory ofheel-toe balance revolutionized putter design.",
+      "image": {
+        "alt": "Image description...",
+        "src": "/images/heritage_3_gold.jpg"
+      },
+      "enabled": true
+    }
+  },
+  "scheduleSection": {
+    "title": "Get custom fit today.",
+    "description": "Get started by scheduling a virtual or on-site fitting",
+    "CTA": {
+      "text": "What's the difference?",
+      "href": "/help",
+      "specialPurpose": "difference"
+    },
+    "calendlyLink": {
+      "text": "Get Custom Fit",
+      "href": "https://calendly.com/pldfitting"
+    },
+    "backgroundImage": {
+      "src": "/images/engineering_landing.jpeg",
+      "alt": "engineering putters"
+    },
+    "enabled": true
+  }
+}

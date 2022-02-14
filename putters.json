@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "Best Custom, Limited Edition, and Milled Putters | Ping PLD",
+    "description": "Learn about Ping PLD custom, limited edition and milled putters. We make the best putter for the most important player in golf...you."
+  },
+  "pageBanner": {
+    "pageName": "Putters",
+    "label": "PLD Overview",
+    "title": "Lorem ipsum dollar sit amet.",
+    "backgroundImage": {
+      "src": "https://plchldr.co/i/2400x1600?bg=CC3300&fc=FFFFFF",
+      "alt": "Putters Overview",
+      "enabled": true
+    },
+    "scrollButtonAria": "Scrolls down to next section",
+    "enabled": true
+  },
+  "carousel": {
+    "itemsArray": [
+      {
+        "title": "PLD Custom",
+        "price": 1490,
+        "priceLabel": "(MSRP)",
+        "description": "You design. We build. Together we craft a one-of-a-kind milled putter custom fit and custom built to your game.",
+        "image": {
+          "src": "https://plchldr.co/i/508x508?bg=0066CC&fc=FFFFFF",
+          "alt": "Custom putter"
+        },
+        "CTA": {
+          "text": "View PLD Custom",
+          "href": "/putters/custom"
+        }
+      },
+      {
+        "title": "PLD Limited",
+        "price": 799,
+        "priceLabel": "(MSRP)",
+        "description": "If you ever wanted a PGA Tour player’s putter, built exactly to his specs, or help celebrate our history with a putter that changed the game.",
+        "image": {
+          "src": "https://plchldr.co/i/508x508?bg=0066CC&fc=FFFFFF",
+          "alt": "Limited putter"
+        },
+        "CTA": {
+          "text": "View PLD Limited",
+          "href": "/putters/limited-edition"
+        }
+      },
+      {
+        "title": "PLD Milled",
+        "price": 400,
+        "priceLabel": "(MSRP)",
+        "description": "Tour-validated models milled to perfection using premium materials and offered exclusively through PLD Premier Partners.",
+        "image": {
+          "src": "https://plchldr.co/i/508x508?bg=0066CC&fc=FFFFFF",
+          "alt": "Milled putter"
+        },
+        "CTA": {
+          "text": "View PLD Milled",
+          "href": "/putters/milled"
+        }
+      }
+    ],
+    "enabled": true
+  },
+  "videoWidget": {
+    "enabled": true,
+    "video": {
+      "src": "https://www.youtube.com/embed/eH3X_ICdBKo",
+      "alt": "video"
+    },
+    "CTA1": {
+      "text": "Get PLD Custom",
+      "href": "/putters/custom"
+    },
+    "CTA2": {
+      "text": "View PLD Milled",
+      "href": "/putters/milled"
+    }
+  }
+}

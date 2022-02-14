@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "title": "Golf Putters Engineering | Custom Putter Fitting | Ping PLD",
+    "description": "Ping PLD dealers use the latest technologies to ensure maximum comfort and performance from your custom putter."
+  },
+  "pageBanner": {
+    "pageName": "Engineering",
+    "label": "Engineering",
+    "title": "World-class engineering and design.",
+    "backgroundImage": {
+      "alt": "engineering putters",
+      "src": "/images/engineering_landing.jpeg"
+    },
+    "scrollButtonAria": "Scrolls down",
+    "enabled": true
+  },
+  "postBannerText": {
+    "text": "Standard-setting,\n score-lowering innovations.",
+    "enabled": true
+  },
+  "artAndPsychology": {
+    "title": "The art and psychology behind our engineering.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliq.",
+    "image": {
+      "alt": "POV looking down at putter",
+      "src": "/images/art_and_science_picture.jpg"
+    },
+    "scrollButtonAria": "Scrolls to bottom section",
+    "enabled": true
+  },
+  "researchAndDev": {
+    "title": "Cutting-edge research and development.",
+    "blocks": [
+      {
+        "title": "Lorem ipsum",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": {
+          "alt": "Behind the scenes look at R&D / WRX. Engineers working 1.",
+          "src": "/images/engineering_5_and_pld_custom_item.jpeg"
+        },
+        "enabled": true
+      },
+      {
+        "title": "Lorem ipsum",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": {
+          "alt": "Behind the scenes look at R&D / WRX. Engineers working 2.",
+          "src": "/images/engineering_2_and_pld_cistom_item.jpeg"
+        },
+        "enabled": true
+      },
+      {
+        "title": "Lorem ipsum",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": {
+          "alt": "Behind the scenes look at R&D / WRX. Engineers working 3.",
+          "src": "/images/engineeering_4_and_pld_custom_item_and_milled_details.jpeg"
+        },
+        "enabled": true
+      }
+    ],
+    "enabled": true
+  },
+  "millingProcess": {
+    "title": "Our milling process",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+    "image": {
+      "alt": "A putter being milled",
+      "src": "/images/art_and_science_picture.jpg"
+    },
+    "enabled": true
+  },
+  "scheduleSection": {
+    "title": "Get custom fit today.",
+    "description": "Get started by scheduling a virtual or on-site fitting",
+    "CTA": {
+      "text": "What's the difference?",
+      "href": "help",
+      "specialPurpose": "difference"
+    },
+    "calendlyLink": {
+      "text": "Get Custom Fit",
+      "href": "https://calendly.com/pldfitting"
+    },
+    "backgroundImage": {
+      "src": "/images/engineering_landing.jpeg",
+      "alt": "engineering putters"
+    },
+    "enabled": true
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "title": "Premium Limited Edition Golf Putters | Ping PLD",
+    "description": "Ping PLD limited edition and rare releases are truly special putters, including pro and legacy models. Get one fast, editions are limited."
+  },
+  "pageBanner": {
+    "pageName": "Limited",
+    "breadcrumbs": {
+      "parentLevel": {
+        "text": "Putters",
+        "href": "/putters"
+      },
+      "currentLevel": "Limited"
+    },
+    "label": "PLD Limited",
+    "title": "Limited Editions & Rare Releases of PLD Putters",
+    "backgroundImage": {
+      "src": "/images/putters_overview_image_ and _news_item_5_and_pld_limited.jpeg",
+      "alt": "PLD Limited Banner"
+    },
+    "scrollButtonAria": "Scroll down to next section",
+    "enabled": true
+  },
+  "collectableShopSection": {
+    "enabled": true,
+    "title": "Rare And Collectable.",
+    "description": "You can putt with them. Collect them. Or both. Whatever you decide, you’ll need to act fast if you want to be part of this exclusive club. It’s your chance to own a PGA Tour player’s putter, built exactly to his specs. Or help celebrate our history with a putter that changed the game. There’s no limit to what putter we might offer, but quantities will be limited, so you’ll need to stay in touch. We’ll do the same.",
+    "blocksRareAndCollectable": [
+      {
+        "image": {
+          "src": "/images/putter_item_1.png",
+          "alt": "Putter Limited"
+        },
+        "oneOff": false,
+        "notice": "",
+        "model": "anser-patent55",
+        "subtitle": "The Anser Patent55 Model",
+        "description": "All patents expire eventually. Few continue to inspire 55 years later. Consider the Anser putter, patent #207.227, issued on March 21, 1967. Originally sketched by Karsten Solheim on a 78 rpm record sleeve before setting the standard in putter design, some of the first golfers to put it in play described it as a plumber’s nightmare. Until their dreams started coming true. Since then, it’s won more tournaments – including majors – than any other model. It also won the hearts and minds of other putter designers, who celebrated the day the patent expired. Today, we’re celebrating its contribution to making putting easier for everyone for the last 55 years.",
+        "specs": [
+          "100% Milled from Manganese Bronze",
+          "Original Anser Design",
+          "PING PP58 Grip"
+        ],
+        "btnText": "View details"
+      },
+      {
+        "image": {
+          "src": "/images/putter_item_1.png",
+          "alt": "Putter Limited - Coming Soon"
+        },
+        "oneOff": false,
+        "notice": "Coming Soon",
+        "model": "anser-patent56",
+        "subtitle": "The Anser Patent56",
+        "description": "All patents expire eventually. Few continue to inspire 55 years later. Consider the Anser putter, patent #207.227, issued on March 21, 1967. Originally sketched by Karsten Solheim on a 78 rpm record sleeve before setting the standard in putter design, some of the first golfers to put it in play described it as a plumber’s nightmare. Until their dreams started coming true. Since then, it’s won more tournaments – including majors – than any other model. It also won the hearts and minds of other putter designers, who celebrated the day the patent expired. Today, we’re celebrating its contribution to making putting easier for everyone for the last 55 years.",
+        "specs": [
+          "100% Milled from Manganese Bronze",
+          "Original Anser Design",
+          "PING PP58 Grip"
+        ],
+        "btnText": "View details"
+      },
+      {
+        "image": {
+          "src": "/images/putter_item_1.png",
+          "alt": "Putter Limited - Only 10 left"
+        },
+        "oneOff": false,
+        "notice": " Only 10 left",
+        "model": "anser-patent57",
+        "subtitle": "The Anser Patent57",
+        "description": "All patents expire eventually. Few continue to inspire 55 years later. Consider the Anser putter, patent #207.227, issued on March 21, 1967. Originally sketched by Karsten Solheim on a 78 rpm record sleeve before setting the standard in putter design, some of the first golfers to put it in play described it as a plumber’s nightmare. Until their dreams started coming true. Since then, it’s won more tournaments – including majors – than any other model. It also won the hearts and minds of other putter designers, who celebrated the day the patent expired. Today, we’re celebrating its contribution to making putting easier for everyone for the last 55 years.",
+        "specs": [
+          "100% Milled from Manganese Bronze",
+          "Original Anser Design",
+          "PING PP58 Grip"
+        ],
+        "btnText": "View details"
+      },
+      {
+        "image": {
+          "src": "/images/putter_item_1.png",
+          "alt": "Putter Limited 1-off"
+        },
+        "oneOff": true,
+        "notice": "Coming Soon",
+        "model": "1-off-model",
+        "subtitle": "1-off model",
+        "description": "All patents expire eventually. Few continue to inspire 55 years later. Consider the Anser putter, patent #207.227, issued on March 21, 1967. Originally sketched by Karsten Solheim on a 78 rpm record sleeve before setting the standard in putter design, some of the first golfers to put it in play described it as a plumber’s nightmare. Until their dreams started coming true. Since then, it’s won more tournaments – including majors – than any other model. It also won the hearts and minds of other putter designers, who celebrated the day the patent expired. Today, we’re celebrating its contribution to making putting easier for everyone for the last 55 years.",
+        "specs": [
+          "100% Milled from Manganese Bronze",
+          "Original Anser Design",
+          "PING PP58 Grip"
+        ],
+        "btnText": "View details"
+      }
+    ]
+  },
+  "archive": {
+    "titleArchived": "Archive",
+    "subtitleArchived": "These PLD limited are gone ",
+    "blocksArchivedRareAndLimited": [
+      {
+        "image": {
+          "src": "/images/putter_item_home.png",
+          "alt": "Sold out putter 1"
+        },
+        "oneOff": false,
+        "notice": "Sold out",
+        "model": "anser-patent61",
+        "subtitle": "Model name",
+        "description": "Description lorem ipsum dolar sit amet consectetur adipiscing elit, sed do eiusmod"
+      },
+      {
+        "image": {
+          "src": "/images/putter_item_3.png",
+          "alt": "Sold out putter 2"
+        },
+        "oneOff": false,
+        "notice": "Sold out",
+        "model": "anser-patent58",
+        "subtitle": "Model name",
+        "description": "Description lorem ipsum dolar sit amet consectetur adipiscing elit, sed do eiusmod"
+      },
+      {
+        "image": {
+          "src": "/images/putter_item_2.png",
+          "alt": "Sold out putter 3"
+        },
+        "oneOff": false,
+        "notice": "Sold out",
+        "model": "anser-patent59",
+        "subtitle": "Model name",
+        "description": "Description lorem ipsum dolar sit amet consectetur adipiscing elit, sed do eiusmod"
+      },
+      {
+        "image": {
+          "src": "/images/putter_item_1.png",
+          "alt": "Sold out putter 4"
+        },
+        "oneOff": false,
+        "notice": "Sold out",
+        "model": "anser-patent60",
+        "subtitle": "Model name",
+        "description": "Description lorem ipsum dolar sit amet consectetur adipiscing elit, sed do eiusmod"
+      }
+    ],
+    "enabled": true
+  }
+}

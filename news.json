@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "News and Information | Ping  PLD",
+    "description": "Ping PLD news and information. Catch up on what’s new with our custom, limited edition and milled putters."
+  },
+  "pageBanner": {
+    "pageName": "News",
+    "title": "News & Tour - Spotlight",
+    "headlinesArrowsAria": {
+      "left": "Previous slide",
+      "right": "Next slide"
+    },
+    "headlinesCarousel": [
+      {
+        "date": {
+          "year": 2021,
+          "month": 11,
+          "day": 21
+        },
+        "title": "PLD Rare Limited will be available soon ",
+        "post": "stop-it-like-a-tour-player",
+        "CTA": {
+          "text": "Read More",
+          "href": "/news/[year]/[month]/[day]/[post]"
+        },
+        "ariaLabel": "nav-news-details-pld-rare"
+      },
+      {
+        "date": {
+          "year": 2021,
+          "month": 11,
+          "day": 21
+        },
+        "title": "PLD Rare Limited will be available soon ",
+        "post": "tour-players",
+        "CTA": {
+          "text": "Read More",
+          "href": "/news/[year]/[month]/[day]/[post]"
+        },
+        "ariaLabel": "nav-news-details-tour-players"
+      },
+      {
+        "date": {
+          "year": 2021,
+          "month": 11,
+          "day": 21
+        },
+        "title": "PLD Rare Limited will be available soon ",
+        "post": "test-post",
+        "CTA": {
+          "text": "Read More",
+          "href": "/news/[year]/[month]/[day]/[post]"
+        },
+        "ariaLabel": "nav-news-details-test-post"
+      }
+    ],
+    "enabled": true
+  },
+  "tourSpotlight": {
+    "title": "Player Spotlight",
+    "postTitle": "Cameron Champ on his Custom PLD",
+    "post": "stop-it-like-a-tour-player",
+    "date": {
+      "year": 2021,
+      "month": 11,
+      "day": 21
+    },
+    "description": "Why someone who is experienced and influential in golfing decided to choose the fitting experience.",
+    "CTA": {
+      "text": "Read Article",
+      "href": "/news/[year]/[month]/[day]/[post]"
+    },
+    "image": {
+      "src": "/images/news_spotlight_person.jpeg",
+      "alt": "Cameron Champ playing"
+    },
+    "enabled": true
+  },
+  "socialMedia": {
+    "title": "#PLD/PING",
+    "enabled": true
+  },
+  "newsSection": {
+    "title": "News",
+    "posts": [
+      {
+        "title": "Stop It Like A Tour Player",
+        "post": "stop-it-like-a-tour-player",
+        "description": "Growing up playing junior golf, I was told that a larger grip size would be difficult to rotate and likely lead to a fade..",
+        "date": {
+          "year": 2021,
+          "month": 11,
+          "day": 21
+        },
+        "image": {
+          "src": "/images/news_item_1.jpeg",
+          "alt": "stop it like a tour player 1"
+        },
+        "CTA": {
+          "text": "Read More",
+          "href": "/news/[year]/[month]/[day]/[post]"
+        }
+      },
+      {
+        "title": "The Impact of Pistol Grips on Putting",
+        "post": "the-impact-of-pistol-grips-on-putting",
+        "description": "Variations of the “pistol-type” putter grip have been part of the game of golf for much longer than one might expect.",
+        "date": {
+          "year": 2021,
+          "month": 11,
+          "day": 21
+        },
+        "image": {
+          "src": "/images/news_item_2.jpeg",
+          "alt": "stop it like a tour player 2"
+        },
+        "CTA": {
+          "text": "Read More",
+          "href": "/news/[year]/[month]/[day]/[post]"
+        }
+      },
+      {
+        "title": "Putter Alignment",
+        "post": "putter-alignment",
+        "description": "Growing up playing junior golf, I was told that a larger grip size would be difficult to rotate and likely lead to a fade..",
+        "date": {
+          "year": 2021,
+          "month": 11,
+          "day": 21
+        },
+        "image": {
+          "src": "/images/news_item_3.jpeg",
+          "alt": "stop it like a tour player 3"
+        },
+        "CTA": {
+          "text": "Read More",
+          "href": "/news/[year]/[month]/[day]/[post]"
+        }
+      },
+      {
+        "title": "Stop It Like A Tour Player",
+        "post": "stop-it-like-a-tour-player",
+        "description": "Growing up playing junior golf, I was told that a larger grip size would be difficult to rotate and likely lead to a fade..",
+        "date": {
+          "year": 2021,
+          "month": 11,
+          "day": 21
+        },
+        "image": {
+          "src": "/images/news_item_1.jpeg",
+          "alt": "stop it like a tour player 4"
+        },
+        "CTA": {
+          "text": "Read More",
+          "href": "/news/[year]/[month]/[day]/[post]"
+        }
+      },
+      {
+        "title": "The Impact of Pistol Grips on Putting",
+        "post": "the-impact-of-pistol-grips-on-putting",
+        "description": "Variations of the “pistol-type” putter grip have been part of the game of golf for much longer than one might expect.",
+        "date": {
+          "year": 2021,
+          "month": 11,
+          "day": 21
+        },
+        "image": {
+          "src": "/images/news_item_2.jpeg",
+          "alt": "stop it like a tour player 5"
+        },
+        "CTA": {
+          "text": "Read More",
+          "href": "/news/[year]/[month]/[day]/[post]"
+        }
+      },
+      {
+        "title": "Putter Alignment",
+        "post": "putter-alignment",
+        "description": "Growing up playing junior golf, I was told that a larger grip size would be difficult to rotate and likely lead to a fade..",
+        "date": {
+          "year": 2021,
+          "month": 11,
+          "day": 21
+        },
+        "image": {
+          "src": "/images/news_item_3.jpeg",
+          "alt": "stop it like a tour player 6"
+        },
+        "CTA": {
+          "text": "Read More",
+          "href": "/news/[year]/[month]/[day]/[post]"
+        }
+      }
+    ],
+    "enabled": true
+  }
+}

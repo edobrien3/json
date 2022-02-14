@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "title": "PING PLD - Details - Stop It Like A Tour Player",
+        "description": "PING PLD - Details - Stop It Like A Tour Player"
+    },
+    "title": "News: Tour players",
+    "subtitle": "One of the most feared shots in golf is hitting a 3-wood off the ground. The thought of a ball sitting down on a sandy, thin, tightly mown fairway with 3-wood in hand is enough to spike anxiety levels in any golfer.",
+    "author": {
+        "name": "Cory Bacon",
+        "jobTitle": "Senior Design Engineer",
+        "description": "Cory Bacon has worked in golf R&D since 2011, including his current role as Senior Design Engineer, contributing to more than 15 club-model designs. He earned a Bachelor of Science degree in Mechanical Engineering from the Colorado School of Mines. Cory is an accomplished amateur player, having won the Arizona Amateur and Arizona Stroke Play championships."
+    },
+    "category": "News",
+    "breadcrumbs": {
+        "parentLevel": {
+            "text": "News",
+            "href": "/news"
+        },
+        "currentLevel": "News: Tour players"
+    },
+    "content": [
+        "<p><b>Why is hitting a fairway or hybrid off a tight lie intimidating?</b></p>",
+        "<p>First, fairway woods are the longest-length clubs most golfers hit off the ground and the longer club length (relative to an iron) results in a more inconsistent club delivery. The second reason is there is very little margin for error in the vertical position of the club at impact. If the club is delivered too low to the ground the result is a chunk; if delivered too high, the result is hitting the ball low on the face – both shots end up substantially short of target. The range of outcomes for minor changes in club delivery is dramatic, which makes the shot high risk and high reward.</p>",
+        "<p>The average impact location for fairways and hybrids hit from the ground is 0.13” below the center of the club face, which means most shots occur low on the face. This makes sense – golfers hedge their club delivery higher above the ground because the result of a shot hit low on the face is better than an outright chunk. To better understand the range of outcomes and specifically look at the variability in launch conditions and carry distance based on impact location, let’s look at some data from PING Man, our golf-ball-hitting robot.</p>",
+        "<p>For the following shots, PING Man was programmed with a standard 3-wood delivery and a clubhead speed of 103 mph. The figure below shows the relative result of hitting a shot 0.2” below face center versus a center impact on the G410 fairway wood. The ball leaves with 550 rpm more backspin and carries 12 yards shorter than a center impact (not shown on the figure below).</p>",
+        "<figure><img src=\"/images/news_details_image_2.png\" alt=\"putter metrics\" /><figcaption>Reducing the spin of shots hit low on the face can improve total distance.</figcaption></figure>",
+        "<p>That is a 12-yard difference in carry distance for only 0.2” difference in impact location! Clearly, hitting low on the face produces poor results, but hitting high on the face is difficult when the ball is on the ground. How can we improve shots hit low on the face? What if we waved a magic wand and lowered the spin by 300 rpm?</p>",
+        "<p>Our proprietary ball-flight model shows that a 300 rpm reduction in spin on the 0.2” low hit would result in an increase in total distance of 5 yards. This is a significant improvement and reduces the distance loss by 40%. It seems like we’re on the right track, but how can we achieve this without a magic wand?</p>"
+    ],
+    "postBannerImage": {
+        "src": "/images/news_details_image.jpeg",
+        "alt": "golfer 1"
+    },
+    "shareButton": {
+        "text": "Share The Article",
+        "href": "unknown",
+        "enabled": false
+    },
+    "enabled": true
+}

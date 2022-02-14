@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "Premium Custom Fitted -  Custom Golf Putters | Ping PLD",
+    "description": "Design your own unique Ping PLD custom putter. Schedule a fitting, design your putter and take your game to the next level."
+  },
+  "pageBanner": {
+    "title": "Design a putter that’s uniquely yours",
+    "breadcrumbs": {
+      "parentLevel": {
+        "text": "Putters",
+        "href": "/putters"
+      },
+      "currentLevel": "Custom"
+    },
+    "description": "Collaborate with a Master Fitter to create your premium, one-of-a-kind model from scratch.",
+    "calendlyLink": {
+      "text": "Schedule a fitting",
+      "href": "https://calendly.com/pldfitting"
+    },
+    "CTA": {
+      "text": "How it works",
+      "href": "Scroll down to \"How it Works\""
+    },
+    "backgroundImage": {
+      "src": "/images/engineering_5_and_pld_custom_item.jpeg",
+      "alt": "custom putter",
+      "enabled": true
+    },
+    "label": "PLD Custom",
+    "enabled": true
+  },
+  "tourSection": {
+    "title": "Roll like a tour pro.",
+    "description": "We’ll treat you to the same putter design process and custom-fitting experience as our Tour pros, then build your putter in the exclusive custom department -- same place where Bubba Watson has his built.",
+    "customsOverviewVideo": {
+      "src": "https://www.youtube.com/embed/eH3X_ICdBKo",
+      "alt": "customs overview video"
+    },
+    "enabled": true
+  },
+  "howItWorks": {
+    "title": "How it works",
+    "slideshowArrowsAria": {
+      "left": "Previous slide",
+      "right": "Next slide"
+    },
+    "slides": [
+      {
+        "index": 1,
+        "title": "Schedule your fitting",
+        "description": "Visit our scheduling page to book a custom fitting appointment with a Master Fitter. You can be fit virtually or in person at PING headquarters in Phoenix, Ariz. Once you’ve made a $199 fitting deposit, your appointment is confirmed.",
+        "CTA": {
+          "text": "How does pricing for custom models work?",
+          "href": "/help",
+          "specialPurpose": "cost"
+        },
+        "image": {
+          "src": "/images/pld_custom_slide_show_1_and_engineering_1_and_faq_landing_background.jpeg",
+          "alt": "how it works 1"
+        }
+      },
+      {
+        "index": 2,
+        "title": "Meet a Master Fitter",
+        "description": "Next, you’ll get a call from a Master Fitter welcoming you, outlining the PLD custom process, and answering any questions you might have. In a few days a personalized PLD Welcome Kit will land on your doorstep.",
+        "image": {
+          "src": "/images/pld_custom_slide_show_2.jpeg",
+          "alt": "how it works 2"
+        },
+        "infographicImage": {
+          "src": "/images/data_and_analytics_pld_custom.png",
+          "alt": "icons"
+        }
+      },
+      {
+        "index": 3,
+        "title": "Receive your welcome kit",
+        "description": "The PLD Welcome Kit contains the items you need to get the ball rolling – literally – using the PLD iPING App. Inside the kit is an iPod Touch, an iPING cradle that attaches to your putter shaft to hold the iPod Touch, and a putting disc to use as a target.",
+        "image": {
+          "src": "/images/pld_custom_slide_show_3.jpeg",
+          "alt": "how it works 3"
+        }
+      },
+      {
+        "index": 4,
+        "title": "Conduct your PLD iPING session",
+        "description": "Customers going the virtual route will follow instructions on the iPod Touch, hitting a series of putts; your stroke metrics and swing tendencies are captured in the PLD iPING App. When finished, you’ll click “Send to PING” and a Master Fitter will receive your data and build your Player Profile report to review with you.",
+        "image": {
+          "src": "/images/pld_custom_slide_show_4.jpeg",
+          "alt": "how it works 4"
+        }
+      },
+      {
+        "index": 5,
+        "title": "Consult and design",
+        "description": "Whether virtually or in person, your Master Fitter will walk you through the results of your PLD iPING session and present the many options available to you in head style, weighting, stroke type, shaft, grip, material, finish, engraving, and more. He’ll make recommendations, but the final decisions are yours.",
+        "image": {
+          "src": "/images/pld_custom_slide_show_5.jpeg",
+          "alt": "how it works 5"
+        }
+      },
+      {
+        "index": 6,
+        "title": "Purchase your putter",
+        "description": "When your dream design is exactly the way you want it, you’ll submit your order. Your Master Fitter will email you a unique URL re-capping your putter’s custom specifications and a link to make payment. In person you can pay your Master Fitter.",
+        "image": {
+          "src": "/images/pld_custom_slide_show_6.jpeg",
+          "alt": "how it works 6"
+        }
+      },
+      {
+        "index": 7,
+        "title": "Get started",
+        "description": "Schedule your fitting now.",
+        "calendlyLink": {
+          "text": "Schedule your fitting",
+          "href": "https://calendly.com/pldfitting"
+        },
+        "image": {
+          "src": "/images/pld_custom_slide_show_7.jpeg",
+          "alt": "how it works 7"
+        }
+      }
+    ],
+    "enabled": true
+  },
+  "imageCarousel": {
+    "title": "No limit to customization.",
+    "description": "Anything you can imagine, we can make happen. Our team of experts stands ready to bring your dream putter to life.",
+    "blocks": [
+      {
+        "image": {
+          "src": "/images/putters_overview_image_ and _news_item_5_and_pld_limited.jpeg",
+          "alt": "models alt"
+        },
+        "title": "Models",
+        "description": "We offer a variety of tour-proven head styles, but let’s say something else catches your eye. Just let your Master Fitter know and consider it done."
+      },
+      {
+        "image": {
+          "src": "/images/engineeering_4_and_pld_custom_item_and_milled_details.jpeg",
+          "alt": "tungsten weighting alt"
+        },
+        "title": "Tungsten weighting",
+        "description": "The performance benefits of adding tungsten to your putter head are real, allowing us to match the putter’s weight to your tempo for building a consistent, repeatable stroke. Tungsten also plays a big role in forgiveness by elevating MOI."
+      },
+      {
+        "image": {
+          "src": "/images/engineering_5_and_pld_custom_item.jpeg",
+          "alt": "face milling alt"
+        },
+        "title": "Face milling",
+        "description": "What’s the feedback you want off the face of your putter? For a crisp feel with a bit more pop, keep the face smooth. Or choose either of two milling patterns: a shallower depth for a slightly softer sound and feel, or a deeper milling pattern and a more muted response."
+      },
+      {
+        "image": {
+          "src": "/images/engineering_2_and_pld_cistom_item.jpeg",
+          "alt": "materials alt"
+        },
+        "title": "Materials",
+        "description": "A couple of ways to go, depending on your feel preference: carbon steel if you like a softer face response; opt for a stainless steel model if you desire a firmer feel."
+      },
+      {
+        "image": {
+          "src": "/images/engineering_3_and_pld_custom_item_and_milled_detail.jpeg",
+          "alt": "finish options alt"
+        },
+        "title": "Finish options",
+        "description": "Distinguish the appearance of your carbon steel putter with either a stealth or patina finish. Stainless steel models give you the option of a matte raw look."
+      },
+      {
+        "image": {
+          "src": "/images/engineering_landing.jpeg",
+          "alt": "alignment aids alt"
+        },
+        "title": "Alignment aids",
+        "description": "Do your eyes set up better to a single alignment line? A ball-width cavity feature? A dot on the top rail? None at all? Choose the visual cues that help you aim better and get your ball rolling on the intended line."
+      },
+      {
+        "image": {
+          "src": "/images/custom_experience_background_home_pld_custom.jpeg",
+          "alt": "engraving, stamping, paint filling alt"
+        },
+        "title": "Engraving, stamping, paint filling",
+        "description": "This step is the finishing touch, a chance to express your individuality and creativity by choosing hand-tooled engraving, stamping or paint filling."
+      }
+    ],
+    "enabled": true
+  },
+  "artOfFittingSection": {
+    "title": "The art and science of fitting.",
+    "description": "We’ll treat you to the same putter design process and custom-fitting experience as our Tour pros, then build your putter in the exclusive Wrx department -- same place where Bubba Watson has his built.",
+    "slideshowArrowsAria": {
+      "left": "Previous slide",
+      "right": "Next slide"
+    },
+    "slides": [
+      {
+        "index": 1,
+        "title": "Master Fitter",
+        "description": "Our Master Fitters are just that, masters in the art and science of custom fitting and product knowledge. They have the advanced training and vast experience to match you with the latest technology that fits your game and improves your performance on the greens.",
+        "image": {
+          "src": "/images/art_and_science_of_fitting_picture_pld_custom.jpeg",
+          "alt": "art of fitting 1"
+        }
+      },
+      {
+        "index": 2,
+        "title": "PLD iPING and Putting Lab data and analytics",
+        "description": "Key aspects about your putting game in general and your stroke in particular are captured in the PLD iPING App. Metrics such as impact angle and tempo provide valuable insights during a putter-fitting session. The PING Putting Lab’s sensors, cameras and analytics allow us to observe your stroke in action down to the most minute detail.",
+        "image": {
+          "src": "/images/art_and_science_picture_home_and_pld_custom.jpg",
+          "alt": "art of fitting 2"
+        },
+        "infographicImage": {
+          "src": "/images/data_and_analytics_pld_custom.png",
+          "alt": "icons"
+        }
+      },
+      {
+        "index": 3,
+        "title": "Biometrics",
+        "description": "In the app you’ll provide us with the key measurables that have formed the foundation for a PING custom fitting for decades: your height, wrist-to-floor distance, hand size, and your dominant eye.",
+        "image": {
+          "src": "/images/pld_custom_slide_show_1_and_engineering_1_and_faq_landing_background.jpeg",
+          "alt": "art of fitting 3"
+        }
+      }
+    ],
+    "enabled": true
+  },
+  "infoSection": {
+    "faq": {
+      "title": "Still have questions?",
+      "description": "Lorem ipsum dolar sit amet consectetur adipiscing elit, sed do eiusmod lorem ipsum dolar sit amet consectetur adipiscing elit, sed do eiusmod lorem ipsum dolar sit amet.",
+      "CTA": {
+        "text": "View our FAQ",
+        "href": "/help"
+      }
+    },
+    "contactUs": {
+      "title": "Customer satisfaction",
+      "description": "Lorem ipsum dolar sit amet consectetur adipiscing elit, sed do eiusmod lorem ipsum dolar sit amet consectetur adipiscing elit, sed do eiusmod lorem ipsum dolar sit amet.",
+      "CTA": {
+        "text": "Contact us",
+        "href": "https://ping.com/en-us/customer-service"
+      }
+    },
+    "enabled": true
+  },
+  "scheduleSection": {
+    "title": "Ready to get your custom putter?",
+    "description": "We’ll treat you to the same putter design process and custom-fitting experience as our Tour pros, then build your putter in the exclusive custom department -- same place where [tour player name] has his built. Lorem ipsum $1,350 (MSRP).",
+    "calendlyLink": {
+      "text": "Schedule a fitting",
+      "href": "https://calendly.com/pldfitting"
+    },
+    "enabled": true
+  }
+}

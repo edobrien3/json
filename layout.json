@@ -1,0 +1,216 @@
+{
+  "navigation": {
+    "pldLogo": {
+      "enabled": true,
+      "href": "/"
+    },
+    "logoAreaLabel": "header logo",
+    "menu": [
+      {
+        "label": "Putters",
+        "href": "/putters",
+        "enabled": true,
+        "ariaLabel": "nav-link-putters",
+        "subitems": {
+          "itemsArray": [
+            {
+              "title": "PLD Custom",
+              "price": 1490,
+              "priceLabel": "(MSRP)",
+              "image": {
+                "src": "https://plchldr.co/i/508x508?bg=0066CC&fc=FFFFFF",
+                "alt": "Custom putter"
+              },
+              "CTA": {
+                "text": "View PLD Custom",
+                "href": "/putters/custom"
+              },
+              "ariaLabel": "nav-link-custom"
+            },
+            {
+              "title": "PLD Limited",
+              "price": 799,
+              "priceLabel": "(MSRP)",
+              "image": {
+                "src": "https://plchldr.co/i/508x508?bg=0066CC&fc=FFFFFF",
+                "alt": "Limited putter"
+              },
+              "CTA": {
+                "text": "View PLD Limited",
+                "href": "/putters/limited-edition"
+              },
+              "ariaLabel": "nav-link-limited"
+            },
+            {
+              "title": "PLD Milled",
+              "price": 400,
+              "priceLabel": "(MSRP)",
+              "image": {
+                "src": "https://plchldr.co/i/508x508?bg=0066CC&fc=FFFFFF",
+                "alt": "Milled putter"
+              },
+              "CTA": {
+                "text": "View PLD Milled",
+                "href": "/putters/milled"
+              },
+              "ariaLabel": "nav-link-milled"
+            }
+          ],
+          "overview": {
+            "text": "Overview",
+            "href": "/putters",
+            "ariaLabel": "nav-link-putters-overview"
+          },
+          "enabled": true
+        }
+      },
+      {
+        "label": "Gear",
+        "href": "/gear",
+        "enabled": false,
+        "ariaLabel": "nav-link-gear"
+      },
+      {
+        "label": "Pros",
+        "href": "/pros",
+        "enabled": true,
+        "ariaLabel": "nav-link-pros"
+      },
+      {
+        "label": "Engineering",
+        "href": "/engineering",
+        "enabled": true,
+        "ariaLabel": "nav-link-engineering"
+      },
+      {
+        "label": "Heritage",
+        "href": "/heritage",
+        "enabled": true,
+        "ariaLabel": "nav-link-heritage"
+      },
+      {
+        "label": "News",
+        "href": "/news",
+        "enabled": true,
+        "ariaLabel": "nav-link-news"
+      }
+    ],
+    "menuIconAreaLabel": "Mobile Drawer",
+    "getCustomButton": {
+      "text": "Get PLD Custom",
+      "href": "/putters/custom",
+      "enabled": true,
+      "ariaLabel": "nav-link-custom-get"
+    }
+  },
+  "footer": {
+    "pingLogoAreaLabel": "PING footer logo",
+    "pingLogo": {
+      "enabled": true,
+      "href": "http://ping.com"
+    },
+    "pldLogoAreaLabel": "PLD footer logo",
+    "pldLogo": {
+      "enabled": true,
+      "href": "/"
+    },
+    "mainSections": {
+      "contact": {
+        "country": "United States",
+        "address": {
+          "box": "P.O. Box 82000",
+          "townState": "Phoenix, Arizona",
+          "zip": "85071-2000"
+        },
+        "phoneNum": "1-800-474-6434",
+        "workingHours": "M—F: 7am—4pm MST",
+        "enabled": true
+      },
+      "putters": {
+        "title": "Putters",
+        "buttons": [
+          {
+            "text": "Overview",
+            "href": "/putters"
+          },
+          {
+            "text": "PLD Custom",
+            "href": "/putters/custom"
+          },
+          {
+            "text": "PLD Milled",
+            "href": "/putters/milled"
+          },
+          {
+            "text": "PLD Limited",
+            "href": "/putters/limited-edition"
+          }
+        ],
+        "enabled": true
+      },
+      "about": {
+        "title": "About",
+        "buttons": [
+          {
+            "text": "Heritage",
+            "href": "/heritage"
+          },
+          {
+            "text": "Engineering",
+            "href": "/engineering"
+          },
+          {
+            "text": "Pros",
+            "href": "/pros"
+          },
+          {
+            "text": "News",
+            "href": "/news"
+          }
+        ],
+        "enabled": true
+      },
+      "support": {
+        "title": "Support",
+        "buttons": [
+          {
+            "text": "Frequently Asked Questions",
+            "href": "/help"
+          },
+          {
+            "text": "Customer Service",
+            "href": "https://ping.com/en-us/customer-service"
+          }
+        ],
+        "enabled": true
+      },
+      "subscribe": {
+        "title": "Subscribe for updates",
+        "inputPlaceholder": "Enter email address",
+        "enabled": false
+      }
+    },
+    "bottomSection": {
+      "title": "©2021 PING. All Rights Reserved.",
+      "buttons": [
+        {
+          "text": "Privacy",
+          "href": "https://ping.com/en-us/privacy"
+        },
+        {
+          "text": "Legal",
+          "href": "https://ping.com/en-us/terms-of-use"
+        },
+        {
+          "text": "Security",
+          "href": "https://ping.com/en-us/misc/security"
+        },
+        {
+          "text": "Groove Rule",
+          "href": "https://ping.com/en-us/legal/groove-rule"
+        }
+      ],
+      "enabled": true
+    }
+  }
+}

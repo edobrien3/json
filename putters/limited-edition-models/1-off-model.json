@@ -1,0 +1,64 @@
+{
+    "meta": {
+        "title": "1-off Model Putters - Limited Edition Putters | Ping PLD",
+        "description":
+            "The Ping PLD 1-off Limited Edition Putter provides stability, forgiveness and accuracy. Heel-to tungsten weighting. Longer and narrower profile."
+    },
+    "pageBanner": {
+        "enabled": true,
+        "isAvailableForSale": false,
+        "notice": "Coming Soon",
+        "image": {
+            "src": "/images/putter_item_home.png",
+            "alt": "putter"
+        },
+        "title": "1-off model",
+        "model": "1-off-model",
+        "oneOff": true,
+        "breadcrumbs": {
+            "grandParentLevel": {
+                "text": "Putters",
+                "href": "/putters"
+            },
+            "parentLevel": {
+                "text": "Limited",
+                "href": "/putters/limited-edition"
+            },
+            "currentLevel": "1-off model"
+        },
+        "description":
+            "Differs from the others with a slightly longer and narrower profile, and sharper corners, but shares its clean geometries and center alignment line to making aiming easy. Heel-toe tungsten weighting provides stability, forgiveness and accuracy.",
+        "characteristics": [
+            {
+                "label": "Putter Type",
+                "value": "Blade"
+            },
+            {
+                "label": "Standard Length",
+                "value": 35
+            },
+            {
+                "label": "Head Weight",
+                "value": "350g"
+            },
+            {
+                "label": "Stroke Type",
+                "value": "Slight Arc"
+            },
+            {
+                "label": "Lie Angle",
+                "value": "20° ±4°"
+            },
+            {
+                "label": "Loft",
+                "value": "3° +3°/-2°"
+            }
+        ],
+        "input": {
+            "text": "Notify me before the auction starts",
+            "placeholder": "Enter email address",
+            "label": "Email",
+            "enabled": false
+        }
+    }
+}

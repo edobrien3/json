@@ -1,0 +1,162 @@
+{
+  "pageBanner": {
+    "pageName": "FAQ",
+    "title": "FAQ",
+    "backgroundImage": {
+      "alt": "FAQ Landing",
+      "src": "/images/pld_custom_slide_show_1_and_engineering_1_and_faq_landing_background.jpeg"
+    },
+    "enabled": true
+  },
+  "topics": {
+    "topics": [
+      {
+        "meta": {
+          "title": "Support and Frequently Asked Questions | Ping PLD ",
+          "description": "Find answers to frequently asked questions about Ping PLD putters, fitting, orders and support."
+        },
+        "name": "General",
+        "topic": "general",
+        "questions": [
+          {
+            "specialPurpose": "cost",
+            "question": "How much does the custom fitting experience cost?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in."
+          },
+          {
+            "question": "What is the return policy?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in."
+          },
+          {
+            "specialPurpose": "difference",
+            "question": "What is the difference between custom, milled and limited edition?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in."
+          },
+          {
+            "question": "Can I customize a limited edition putter?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in."
+          },
+          {
+            "question": "Can I get custom fit on-site at PING?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in."
+          },
+          {
+            "question": "What do I need to complete the virtual fitting?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in."
+          },
+          {
+            "question": "When will my custom putter arrive?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in."
+          },
+          {
+            "question": "What is a Master Fitter?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in."
+          }
+        ]
+      },
+      {
+        "meta": {
+          "title": "Putters - Frequently Asked Questions - Putters | Ping PLD",
+          "description": "Find answers to frequently asked questions about Ping PLD putters."
+        },
+        "name": "Putters",
+        "topic": "putters",
+        "questions": [
+          {
+            "question": "Is this the Putters section?",
+            "answer": "Yes, this is the putters section."
+          },
+          {
+            "question": "Is this the Putters section?",
+            "answer": "Yes, this is the putters section."
+          }
+        ]
+      },
+      {
+        "meta": {
+          "title": "Fitting - Frequently Asked Questions - Fitting | Ping PLD",
+          "description": "Find answers to frequently asked questions about the Ping PLD fitting process."
+        },
+        "name": "Fitting",
+        "topic": "fitting",
+        "questions": [
+          {
+            "question": "How does it work?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+          },
+          {
+            "question": "How do I schedule a virtual fitting?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+          },
+          {
+            "question": "How do I reschedule my virtual fitting?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+          },
+          {
+            "question": "How does the app work?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+          }
+        ]
+      },
+      {
+        "meta": {
+          "title": "Orders - Frequently Asked Questions - Orders | Ping  PLD",
+          "description": "Find answers to frequently asked questions about Ping PLD orders."
+        },
+        "name": "Orders",
+        "topic": "orders",
+        "questions": [
+          {
+            "question": "Is this orders?",
+            "answer": "This is orders"
+          }
+        ]
+      },
+      {
+        "meta": {
+          "title": "Support - Frequently Asked Questions - Support | Ping PLD",
+          "description": "Find answers to questions about Ping PLD customer support. "
+        },
+        "name": "Support",
+        "topic": "support",
+        "questions": [
+          {
+            "question": "Can I return my Customs putter?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          },
+          {
+            "question": "Can I fit my Customs putter again if I don’t like it?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          },
+          {
+            "question": "Can I fit my Customs putter again if I don’t like it?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          },
+          {
+            "question": "Can I fit my Customs putter again if I don’t like it?",
+            "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+          }
+        ]
+      }
+    ],
+    "enabled": true
+  },
+  "scheduleSection": {
+    "title": "Get custom fit today.",
+    "description": "Get started by scheduling a virtual or on-site fitting",
+    "CTA": {
+      "text": "What's the difference?",
+      "href": "/help",
+      "specialPurpose": "difference"
+    },
+    "calendlyLink": {
+      "text": "Get Custom Fit",
+      "href": "https://calendly.com/pldfitting"
+    },
+    "backgroundImage": {
+      "src": "/images/engineering_landing.jpeg",
+      "alt": "engineering putters"
+    },
+    "enabled": true
+  }
+}
